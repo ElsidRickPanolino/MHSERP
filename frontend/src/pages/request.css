@@ -1,0 +1,7 @@
+.card-header {
+  cursor: pointer;
+}
+
+.card-header .btn-link {
+  text-decoration: none;
+}
